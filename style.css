@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    align-items: center;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+}
+
+
+.ho {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.solid {
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+}
+
+.text{
+margin-top: 126px;
+}
+
+.has{
+width: 255;
+height: 70;
+color: #7875FE;
+
+}
